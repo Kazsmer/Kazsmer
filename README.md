@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Fanni
+- 👀 I’ve just finished my developer training at O'clock and preparing my exam to become a dev officially
+- 🌱 I’ve been learning PHP, Javascript, HTML, CSS and more
+- 💞️ I’m looking for developer jobs in Bordeaux or Lyon (France) ➡️ see my [LinkedIn](https://www.linkedin.com/in/fanni-k%C3%A1zsm%C3%A9r/)
+- ✨ I've worked in many sectors in many parts of the world 🌍
+- 🌺 I love nature & people
+- 📫 You can reach me here or by mail: fanni.kazsmer@gmail.com
