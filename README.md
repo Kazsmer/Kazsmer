@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fanni
-- 👀 I’ve just finished my developer training at O'clock and preparing my exam to become a dev officially
+- 👀 I’ve just obtained my Developer Web dilpome in France
 - 🌱 I’ve been learning PHP, Javascript, HTML, CSS and more
 - 🌺 I love nature & people
 - 📫 You can reach me here or by mail: fanni.kazsmer@gmail.com
